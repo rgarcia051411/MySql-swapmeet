@@ -1,5 +1,31 @@
 # MySql-swapmeet
 
-An interactive shopping node app where MySQL and Node.JS are used to allow users to purchase items as a customer, view, track and update the product inventory as a manager, and track the total sales by department as an executive.
+An interactive shopping node app using  MySQL and Node.JS it  allow users to purchase items as a customer.
+
+###### Customer Portal
 
 
+
+
+
+
+###### Prerequisites
+
+Please install the following packasges:
+* npm install cli-table
+* npm install require
+* npm install inquirer
+* npm install mysql
+
+###### Technologies Used
+* Node JS
+* Mysql
+* JavaScript
+* npm Packages
+- inquirer
+- mysql
+- cli-table
+
+###### License
+	
+Copy Right 2018 Ð Robinson Garcia
