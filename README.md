@@ -1,31 +1,50 @@
-# MySql-swapmeet
+# Bamazon
 
-An interactive shopping node app using  MySQL and Node.JS it  allow users to purchase items as a customer.
+This is an interactive shopping node app using Mysql and Node.js. Where the user can buy item by its item id. The user will be asked of the quantity of the item that he/she wants to purchase.
+## Screen Shot
+```
+<img src="out.gif" width="60" height="60" />
+```
 
-###### Customer Portal
+## Getting Started
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+### Prerequisites
+Please intall the following packages.
+Please refer to https://docs.npmjs.com/cli/install for how to's.
 
-
-
-
-###### Prerequisites
-
-Please install the following packasges:
+```
 * npm install cli-table
-* npm install require
 * npm install inquirer
 * npm install mysql
+```
 
-###### Technologies Used
-* Node JS
-* Mysql
+### Installing
+package.json is included, just type the code below.
+
+```
+npm install
+```
+
+
+## Deployment
+
+```
+Github
+```
+## Technologies used
+
+* node.js
 * JavaScript
-* npm Packages
-- inquirer
-- mysql
-- cli-table
+* mySql
+* cli-table
+* inquirer
 
-###### License
-	
-Copy Right 2018 Ð Robinson Garcia
+
+
+## Authors
+
+Robinson Garcia
+
+
