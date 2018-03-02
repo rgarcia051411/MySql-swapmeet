@@ -2,9 +2,9 @@
 
 This is an interactive shopping node app using Mysql and Node.js. Where the user can buy item by its item id. The user will be asked of the quantity of the item that he/she wants to purchase.
 ## Screen Shot
-```
-<img src="out.gif" width="60" height="60" />
-```
+
+![](out.gif)
+
 
 ## Getting Started
 
